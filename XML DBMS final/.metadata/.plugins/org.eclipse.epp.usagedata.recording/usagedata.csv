@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.wb.core.xml,0.9.0.r36x201105061502,"org.eclipse.wb.core.xml",1323761374703
+started,bundle,org.eclipse.wst.jsdt.debug.ui,1.0.0.v201005250108,"org.eclipse.wst.jsdt.debug.ui",1323761374703
+os,sysinfo,,,"win32",1323761374708
+arch,sysinfo,,,"x86_64",1323761374708
+ws,sysinfo,,,"win32",1323761374708
+locale,sysinfo,,,"en_US",1323761374708
+processors,sysinfo,,,"4",1323761374708
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1323761374708
+java.runtime.version,sysinfo,,,"1.6.0_23-b05",1323761374708
+java.specification.name,sysinfo,,,"Java Platform API Specification",1323761374708
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1323761374708
+java.specification.version,sysinfo,,,"1.6",1323761374708
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1323761374708
+java.version,sysinfo,,,"1.6.0_23",1323761374708
+java.vm.info,sysinfo,,,"mixed mode",1323761374708
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1323761374708
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1323761374708
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1323761374708
+java.vm.specification.version,sysinfo,,,"1.0",1323761374708
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1323761374708
+java.vm.version,sysinfo,,,"19.0-b09",1323761374708
+started,bundle,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui",1323761376895
+started,bundle,org.eclipse.wst.server.core,1.1.202.v20100518,"org.eclipse.wst.server.core",1323761377253
+started,bundle,org.eclipse.wst.server.ui,1.1.203.v20100601,"org.eclipse.wst.server.ui",1323761377273
+started,bundle,org.eclipse.jdt.debug,3.6.1.v20100715_r361,"org.eclipse.jdt.debug",1323761377310

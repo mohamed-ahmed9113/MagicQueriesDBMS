@@ -1,0 +1,30 @@
+package DBMS;
+
+import org.apache.log4j.Level;
+import org.apache.log4j.Logger;
+
+public class Main {
+    public static Logger logger = Logger.getLogger(Main.class);
+    
+    public static void main(String[] args) {
+        
+
+		 long time = System.currentTimeMillis();
+		 logger.info("main method called..");
+		 logger.info("another informative message");
+		 logger.warn("This one is a warning!");
+		 logger.log(Level.TRACE,
+		 "And a trace message using log() method.");
+		 long logTime = System.currentTimeMillis() - time;
+
+		 logger.debug("Time taken to log the previous messages: "
+		 + logTime + " msecs");
+
+		 try{
+		 String subs = "hello".substring(6);
+		 }catch (Exception e){
+		 logger.error("Error in main() method:", e);
+		 }
+               
+    }
+}

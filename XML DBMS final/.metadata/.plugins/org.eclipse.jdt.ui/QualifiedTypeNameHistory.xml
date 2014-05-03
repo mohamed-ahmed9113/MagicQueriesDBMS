@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.w3c.dom.Element"/>
+<fullyQualifiedTypeName name="java.awt.Toolkit"/>
+<fullyQualifiedTypeName name="java.awt.Dimension"/>
+<fullyQualifiedTypeName name="javax.swing.JFrame"/>
+<fullyQualifiedTypeName name="Table"/>
+<fullyQualifiedTypeName name="Schema"/>
+<fullyQualifiedTypeName name="javax.naming.InvalidNameException"/>
+<fullyQualifiedTypeName name="queryParser"/>
+<fullyQualifiedTypeName name="Controller"/>
+<fullyQualifiedTypeName name="DBMS.MagicQueriesLogger"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+</qualifiedTypeNameHistroy>

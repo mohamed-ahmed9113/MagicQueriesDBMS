@@ -1,0 +1,18 @@
+INDEX VERSION 1.126+D:\College Work\3rd Semester\OOP\Assignments\XML DBMS final\.metadata\.plugins\org.eclipse.jdt.core
+3730526690.index
+3270002986.index
+509055452.index
+3000053649.index
+1483534206.index
+906431958.index
+2877109961.index
+1836355465.index
+3277441100.index
+3585733931.index
+1195944079.index
+823622804.index
+1381789043.index
+1789169078.index
+3865319888.index
+3535762119.index
+4251467834.index

@@ -1,0 +1,39 @@
+/**
+ * 
+ */
+
+/**
+ * @author mahmoud elmaghrabi
+ *
+ */
+public interface ColumnInterface 
+{
+	/**
+	 * 
+	 * @param columnName
+	 */
+	public void getColumnType(String columnName);
+	
+	public void insertCell(String value);
+	
+	public void deleteCell(int index);
+	
+	public void deleteCell(String value);
+	
+	public void setCell(int index,String value);
+	
+	public void setCell(String oldValue,String newValue);
+	
+	public void setAllCellsTo(String value);
+	
+	public Object getCell(int index);
+	
+	public Object[] getAllCells();
+	
+	public void deleteAllCells();
+	
+	
+	
+	
+
+}

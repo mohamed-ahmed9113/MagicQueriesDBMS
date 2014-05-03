@@ -1,0 +1,73 @@
+public interface QueryProcessor {
+	/**
+	 * Insert Method: Insert values into a table in the specified columns.
+	 * 
+	 * @param Table_name.
+	 * @param specified column.
+	 * @param values to be inserted.
+	 */
+//	public void insert(String table_name, String[] column_name, String[] values);
+
+	/**
+	 * Delete Method: Deletes all data in the table
+	 * @param Table_name.
+	 */
+//	public void deleteAll(String table_name);
+
+	/**
+	 * Delete all: Deletes specified cells from the table.
+	 * @param table_name
+	 * @param condition
+	 */
+//	public void delete(String table_name, String[] condition);
+	/**
+	 * Update method:
+	 * This method can change the value of the specified columns. 
+	 * @param table_name
+	 * @param column_name
+	 * @param new_values
+	 */
+//	public void updateAll(String table_name,String []column_name,String[]new_values);
+	/**
+	 * Update method:
+	 * This method can change the value of the specified locations. 
+	 * @param table_name
+	 * @param column_name
+	 * @param new_values
+	 * @param condition
+	 */
+//	public void update(String table_name,String []column_name,String[]new_values,String[]condition);
+	/**
+	 * Select method:
+	 * this method selects all cells in the table.
+	 * @param table name.
+	 * @return the selected columns.
+	 */
+//	public Object[][] selectAll(String table_name);
+	/**
+	  * Select method:
+	 * this method selects specified cells in the table.
+	 * @param table_name
+	 * @param condition
+	 * @return the selected columns.
+	 */
+//	public Object[][] selectAll(String table_name,String[]condition);
+	/**
+	 * Select method:
+	 * this method selects columns in the table.
+	 * @param table_name
+	 * @param column_name
+	 * @return the selected columns.
+	 */
+//	public Object[][] selectColumns(String table_name,String[]column_name);
+	/**
+	 * Select method:
+	 * this method selects specified columns in the table.
+	 * @param table_name
+	 * @param column_name
+	 * @param condition
+	 * @return the selected columns.
+	 */
+//	public Object[][] selectColumns(String table_name,String[]column_name,String[]condition); 
+
+}

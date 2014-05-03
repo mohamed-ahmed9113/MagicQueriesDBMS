@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><table Name="Student">
+	<column dataType="Integer" name="id">
+		<idElement>1</idElement>
+		<idElement>2</idElement>
+		<idElement>3</idElement>
+		<idElement>4</idElement>
+		<idElement>5</idElement>
+		<idElement>6</idElement>
+		<idElement>7</idElement>	
+	</column><column dataType="String" name="Name">
+		<NameElement>Ahmed</NameElement><NameElement>Amer</NameElement><NameElement>Ayman</NameElement><NameElement>Basem</NameElement><NameElement>Motaz</NameElement><NameElement>Mohamed</NameElement><NameElement>Mostafa</NameElement></column>
+	<column dataType="Integer" name="class"><classElement>1</classElement><classElement>2</classElement><classElement>3</classElement><classElement>4</classElement><classElement>5</classElement><classElement>6</classElement><classElement>7</classElement></column>
+	<column dataType="Boolean" name="isSucced"><isSuccedElement>true</isSuccedElement><isSuccedElement>true</isSuccedElement><isSuccedElement>true</isSuccedElement><isSuccedElement>true</isSuccedElement><isSuccedElement>true</isSuccedElement><isSuccedElement>true</isSuccedElement><isSuccedElement>true</isSuccedElement></column>
+</table>
