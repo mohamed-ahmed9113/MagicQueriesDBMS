@@ -2,4 +2,4 @@ In this program, user can create his own data base, add tables ,add columns ,del
 
 The user can see every change in his data base in a table, the table will be updated after any action the user enters.
 
-Please refer to the report for more details.
+Please refer to the report and screen-shots for more details.
